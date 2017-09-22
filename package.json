@@ -5,9 +5,12 @@
   "repository": "https://github.com/tech4him1/remove-nonspacing.git",
   "license": "MIT",
   "devDependencies": {
+    "faucet": "^0.0.1",
+    "tape": "^4.8.0",
     "unicode": "^10.0.0"
   },
   "scripts": {
-    "generate": "node generate.js"
+    "generate": "node generate.js",
+    "test": "node test | faucet"
   }
 }
