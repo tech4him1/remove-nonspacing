@@ -1,7 +1,7 @@
 {
   "name": "remove-nonspacing",
   "version": "0.1.1",
-  "main": "src/index.js",
+  "main": "index.js",
   "repository": "https://github.com/tech4him1/remove-nonspacing.git",
   "license": "MIT",
   "dependencies": {
