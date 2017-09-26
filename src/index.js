@@ -1,6 +1,6 @@
 'use strict';
 
-var nonspacing = new Set(require('./nonspacing'));
+var nonspacing = new Set(require('unicode-tables/category/Mn'));
 
 function removeAccents(string) {
   var decomposed = string.normalize("NFD");

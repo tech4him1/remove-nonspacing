@@ -4,10 +4,7 @@
   "main": "src/index.js",
   "repository": "https://github.com/tech4him1/remove-nonspacing.git",
   "license": "MIT",
-  "devDependencies": {
-    "unicode": "^10.0.0"
-  },
-  "scripts": {
-    "generate": "node generate.js"
+  "dependencies": {
+    "unicode-tables": "^10.0.0"
   }
 }

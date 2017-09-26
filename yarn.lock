@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-unicode@^10.0.0:
+unicode-tables@^10.0.0:
   version "10.0.0"
-  resolved "https://registry.yarnpkg.com/unicode/-/unicode-10.0.0.tgz#e5d51c1db93b6c71a0b879e0b0c4af7e6fdf688e"
+  resolved "https://registry.yarnpkg.com/unicode-tables/-/unicode-tables-10.0.0.tgz#d49680fcfe362d39e5b862b23874490d35110f9c"
